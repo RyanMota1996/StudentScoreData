@@ -14,7 +14,13 @@ Removing a good deal of data points has caused several effects:
 
 - On relative performance compared to other school: no effect as adding NaN does not get added when judging averages
    - this would also effect the math and reading scores, school size, and school type by grade in the same manner, as making the 9th grade marks null does not directly effect the calculation
+  
+  <img src = " Images/5.1mathscoresbygrade.png ">
+
+<img src ="Images/5.1scoresbyschoolspending.png">
 
 ## Conclusion
 Due to the changes made, we now only have a partial idea of how the schools in the district are preforming. While making the 9 graders marks for Thomas High NaN did not effect our 
 outputs, it does now have to be considered in coming to a conclusion on the state of the district. Due to the changes, the averages for the school district are off. However, what can be said is that in regards of spending, it is clear that Thomas high requires more spending to combat the academic dishonesty present there.
+
+  
