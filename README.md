@@ -5,7 +5,7 @@
 ## Overview
 
   The purpose of the analysis was to tabulate the students preformane as well as examine the performance of their school and district in regards to how much funding did the school or district receive. Furthermore after this intital process academic dishonesty was found to be a possibility for the students at Thomas high school for the 9th grade and thus those marks had to be stripped from the calculation of the overall analysis.
-
+<IMG SRC ="Images/5.1.studentNaN.png">
 
 ## Results
 
@@ -15,7 +15,7 @@ Removing a good deal of data points has caused several effects:
 - On relative performance compared to other school: no effect as adding NaN does not get added when judging averages
    - this would also effect the math and reading scores, school size, and school type by grade in the same manner, as making the 9th grade marks null does not directly effect the calculation
   
-  <img src = " Images/5.1mathscoresbygrade.png ">
+  <img src = "Images/5.1mathscoresbygrade.png">
 
 <img src ="Images/5.1scoresbyschoolspending.png">
 
